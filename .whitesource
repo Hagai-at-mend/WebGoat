@@ -1,7 +1,12 @@
 {
   "scanSettings": {
     "configMode": "LOCAL",
-    "projectToken": "",
+    "projectToken": "",  
+    
+    
+    
+    
+    
     "baseBranches": []   
   },
   "checkRunSettings": {
