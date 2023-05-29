@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "LOCAL",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": []   
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
